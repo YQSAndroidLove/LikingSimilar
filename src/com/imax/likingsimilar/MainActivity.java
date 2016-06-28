@@ -3,7 +3,7 @@ package com.imax.likingsimilar;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.imax.customepass.R;
+import com.imax.likingsimilar.R;
 
 public class MainActivity extends Activity {
 
